@@ -36,8 +36,8 @@ Acredito que aprender programação é também aprender a **resolver problemas d
 
 | 💡 Projeto | 📝 Descrição | 🔗 Link |
 |-------------|--------------|--------|
-| 🎮 **Quiz Educativo** | Jogo de perguntas interativo desenvolvido para apoiar o aprendizado, usando HTML, CSS e JS | [Ver no GitHub](https://github.com/LaryssaLenzi/quiz-educativo) |
-| 📚 **Mini Glossário** | Projeto de site que apresenta conceitos de forma simples e visual para estudos | [Ver no GitHub](https://github.com/LaryssaLenzi/mini-glossario) |
+| 🎮 **Quiz Educativo** | Jogo de perguntas interativo desenvolvido para apoiar o aprendizado, usando HTML, CSS e JS |<a href:"[laryssalenzi.github.io/Quiz/](https://laryssalenzi.github.io/Quiz/)">Ver no GitHub </a>|
+| 📚 **Mini Glossário** | Projeto de site que apresenta conceitos de forma simples e visual para estudos |  <a href:"https://laryssalenzi.github.io/Mini-glossario/">Ver no GitHub </a> |
 | 🌐 **Site em Aula** | Exercício prático de estruturação e design de página web | [Ver no GitHub](https://github.com/LaryssaLenzi/site-em-aula) |
 
 ---
